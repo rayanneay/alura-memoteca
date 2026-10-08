@@ -1,0 +1,10 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
